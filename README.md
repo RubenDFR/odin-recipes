@@ -1,0 +1,1 @@
+Practica para Odin Project> sitio web consistirá en una página de índice principal que tendrá enlaces a algunas recetas
