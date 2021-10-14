@@ -1,0 +1,26 @@
+<body>
+  <h1>Air-Fryer Chicken Wings</h1>
+		<img src="../images/Air_Fryer_Chicken_Wings.jpg">
+                <div>
+        <h2>Ingredients<h2>
+            <ul>
+                <li>2 teaspoons garlic powder</li>
+                <li>1 teaspoon garlic salt</li>
+                <li>1 teaspoon each ground mustard, ginger and nutmeg</li>
+                <li>1/2 teaspoon pepper</li>
+                <li>1/2 teaspoon ground allspice</li>
+                <li>1/2 teaspoon baking soda</li>
+                <li>1/2 teaspoon cayenne pepper</li>
+                <li>12 whole chicken wings (2-1/2 pounds)</li>
+                <li>Optional: ranch salad dressing, Buffalo sauce or barbecue sauce</li>
+            </ul>
+        <h2>Directions<h2>
+            <ul>
+                <li>Preheat air fryer to 300°. In a large bowl, combine the garlic powder, garlic salt, mustard, ginger, nutmeg, pepper, allspice, baking soda and cayenne.</li>
+                <li>Cut chicken wings into three sections; discard wing tip sections. Add to bowl with spices and stir to coat. In batches, arrange wings in a single layer on tray in greased air-fryer basket. Cook 15 minutes. Increase temperature to 400°; cook until chicken juices run clear and they are golden brown, 20-25 minutes. Repeat with remaining wings. Serve hot with sauce if desired.</li>
+            </ul>
+        <h2>Nutrition Facts<h2>
+        <p>1 piece: 54 calories, 4g fat (1g saturated fat), 15mg cholesterol, 102mg sodium, 0 carbohydrate (0 sugars, 0 fiber), 5g protein.</p>
+        </div>
+    <a href="../index.htlm">Return to main page</a
+</body>
